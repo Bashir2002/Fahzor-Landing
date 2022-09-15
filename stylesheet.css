@@ -125,11 +125,11 @@ nav ul{
     padding: 1.3rem;
     font-size: 1.6rem;
 }
-.section1 h2{
+.section1 h1{
     font-family:'clash_displaymedium' ;
     font-weight: lighter;
-    font-size: 2rem;
-    width: 50rem;
+    font-size: 2.9rem;
+    width: 60rem;
     line-height: 1.3;
     margin: 0 auto;
 }
@@ -141,6 +141,7 @@ nav ul{
     justify-content: center;
 }
 .btn1{
+    font-size: 1.2rem;
     padding: 0.5rem 1.5rem;
     background-color: transparent;
     border-radius: 20px;
@@ -160,14 +161,14 @@ nav ul{
 .section2 p{
     font-family:'clash_displaymedium' ;
     /* font-weight: 500px; */
-    padding: 1.3rem;
+    padding: 1.4rem;
     font-size: 1.2rem;
 }
 .section2 h2{
     font-family:'clash_displaymedium' ;
     font-weight: lighter;
-    font-size: 2rem;
-    width: 50rem;
+    font-size: 2.4rem;
+    width: 55rem;
     line-height: 1.3;
     margin: 0 auto;
 }
@@ -211,7 +212,6 @@ nav ul{
 }
 .faq div{
     padding: 1rem 0;
-
     text-align: left;
     display:flex;
     font-weight: unset;
@@ -253,6 +253,14 @@ footer div{
 }
 .foot{
     justify-content: space-between;
+}
+.section5{
+    padding: 3rem 0;
+}
+@media screen and (max-width: 1000px) {
+    :root{
+        font-size: 12px;
+    }
 }
 @media screen and (max-width: 800px) {
     :root{
@@ -303,8 +311,8 @@ footer div{
     .show-links {
         transform: translateY(0%);
     }
-    .section1 h2{
-        font-size: 2.0rem;
+    .section1 h1{
+        font-size: 2.5rem;
         width: unset;
         padding: 0 4rem;
     }
@@ -315,7 +323,7 @@ footer div{
         margin-top: 10rem;
     }
     .section2 h2{
-        font-size: 2.2rem;
+        font-size: 2.1rem;
         width: unset;
         padding: 0 4rem;
     }
@@ -355,7 +363,7 @@ footer div{
         font-weight: lighter;
         font-size: 1.5rem;
     }
-    .section1 h2{
+    .section1 h1{
         font-size: 2.7rem;
     }
     .section3{
@@ -391,10 +399,10 @@ footer div{
     .section1{
         margin-top: 12rem;
     }
-    .section1 h2{
+    .section1 h1{
         font-family:'clash_displaymedium' ;
         font-weight: lighter;
-        font-size: 2.5rem;
+        font-size: 2.8rem;
         padding: 0 2.5rem;
         width: unset;
         margin: 0 auto;

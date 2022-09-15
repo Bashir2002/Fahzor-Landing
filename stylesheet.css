@@ -351,6 +351,9 @@ footer div{
     :root{
         font-size: 9px;
     }
+    .section1 p{
+        font-weight: lighter;
+    }
     .section1 h2{
         font-size: 3rem;
     }

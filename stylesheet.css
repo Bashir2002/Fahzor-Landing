@@ -184,6 +184,7 @@ nav ul{
 }
 .section3 div{
     overflow: hidden;
+    border-radius: 15px;
 }
 .section3 img:hover{
     scale: 1.1;

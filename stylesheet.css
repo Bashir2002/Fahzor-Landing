@@ -351,6 +351,9 @@ footer div{
     :root{
         font-size: 9px;
     }
+    .section1 h2{
+        font-size: 2.5rem;
+    }
     .section3{
         margin-bottom: 8rem;
         grid-template-columns: 100%;

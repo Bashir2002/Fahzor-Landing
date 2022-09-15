@@ -378,7 +378,7 @@ footer div{
     }
     #par{
         text-align: center;
-        padding: 2rem;
+        padding:1rem 2rem 0.5rem 2rem;
         font-weight: bold;
         font-size: 2rem;
     }

@@ -205,6 +205,7 @@ nav ul{
     font-weight: unset;
 }
 .part4{
+    padding: 3rem;
     margin: 0 auto;
     width: 40rem;
 }
@@ -351,7 +352,7 @@ footer div{
         font-size: 9px;
     }
     .section3{
-        grid-template-columns: 90%;
+        grid-template-columns: 100%;
         justify-content: center;
     }
     .part4{
@@ -406,7 +407,7 @@ footer div{
     }
     .part4{
         width: unset;
-        padding: 2rem;
+        padding: 3rem;
     }
     #par{
         position: relative;

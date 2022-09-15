@@ -365,7 +365,10 @@ footer div{
         font-weight: bold;
         font-size: 2rem;
     }
-    
+    .head p{
+        font-size: 1.8rem;
+    }
+
     footer{
         font-size: 1.2rem;
         grid-template-columns: 100%;
